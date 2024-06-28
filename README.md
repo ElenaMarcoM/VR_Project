@@ -1,4 +1,4 @@
-# Night Shift
+# Night Shift (VR Proyecto)
 - *¿Cómo se juega?*
   - Nada mas comenzar podras ver una mesa iluminada donde hay colocados unos ejemplos de cómo se ven las manzanas junto con una linterna. Esta te será útil para poder distinguir entre los distintos tipos de manzanas.
   - Con el "rayo" de tu mando izquierdo podras desplazate hacia los distintos puntos para coger las manzanas.
